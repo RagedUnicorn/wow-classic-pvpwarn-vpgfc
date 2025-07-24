@@ -1,8 +1,8 @@
 globals = {
   "rgpvpw",
-  "rgpvpwvpnfc",
-  "RGPVPW_VP_NFC_CONSTANTS",
-  "RGPVPW_VP_NFC_ENVIRONMENT"
+  "rgpvpwvpgfc",
+  "RGPVPW_VP_GFC_CONSTANTS",
+  "RGPVPW_VP_GFC_ENVIRONMENT"
 }
 
 files["code"] = {std = "lua51"}

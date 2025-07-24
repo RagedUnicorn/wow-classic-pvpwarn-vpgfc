@@ -1,0 +1,20 @@
+# THIS FILE IS AUTO-GENERATED. ALL CHANGES ARE OVERWRITTEN
+## Interface: 11507
+## Title: PVPWarn Voice Pack Gnome Female Classic
+## Author: Michael Wiesendanger <michael.wiesendanger@gmail.com>
+## Notes: Gnome Female Classic Voice Pack for PVPWarn
+## Dependencies: PVPWarn
+## Version: v1.0.0
+
+# constant values
+code/Constants.lua
+# environment variables
+code/Environment.lua
+
+# code
+code/Core.lua
+code/Logger.lua
+code/Frame.xml
+
+# localization
+localization/enUS.lua

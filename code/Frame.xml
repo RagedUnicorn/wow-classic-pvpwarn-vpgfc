@@ -1,0 +1,14 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/..\..\FrameXML\UI.xsd">
+
+  <!-- MainFrame -->
+  <Frame name="PVPWVP_Gnome_Female_Classic_MainFrame" parent="UIParent" hidden="true">
+    <Scripts>
+      <OnLoad>
+        rgpvpwvpgfc.OnLoad(self)
+      </OnLoad>
+      <OnEvent>
+        rgpvpwvpgfc.OnEvent(event, ...)
+      </OnEvent>
+    </Scripts>
+  </Frame>
+</Ui>
