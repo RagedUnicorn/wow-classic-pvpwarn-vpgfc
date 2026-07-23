@@ -22,7 +22,7 @@
   SOFTWARE.
 ]]--
 
--- luacheck: globals GetAddOnMetadata
+-- luacheck: globals C_AddOns
 
 --[[
   PVPWarn Voice Pack - Gnome Female (Classic)
@@ -110,6 +110,6 @@ ShowWelcomeMessage = function()
   print(
     string.format("|cFF00FFB0" .. "Loaded - " .. voicePackGnomeFemale.L["addon_name"]
       .. voicePackGnomeFemale.L["info_title"],
-      GetAddOnMetadata(RGPVPW_VP_GFC_CONSTANTS.ADDON_NAME, "Version"))
+      C_AddOns.GetAddOnMetadata(RGPVPW_VP_GFC_CONSTANTS.ADDON_NAME, "Version"))
   )
 end

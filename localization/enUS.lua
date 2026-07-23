@@ -22,8 +22,6 @@
   SOFTWARE.
 ]]--
 
--- luacheck: globals GetAddOnMetadata
-
 rgpvpwvpgfc = rgpvpwvpgfc or {}
 rgpvpwvpgfc.L = {}
 
