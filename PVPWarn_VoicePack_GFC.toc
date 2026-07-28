@@ -5,6 +5,7 @@
 ## Notes: Gnome Female Classic Voice Pack for PVPWarn
 ## Dependencies: PVPWarn
 ## Version: v1.0.0
+## IconTexture: Interface\AddOns\PVPWarn_VoicePack_GFC\assets\pvpwarn_voice_gnome_female
 
 # constant values
 code/Constants.lua
